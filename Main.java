@@ -10,6 +10,9 @@ public class Main{
              System.out.println("Hello");
               System.out.println("Hello");
              System.out.println("Hello");
+
+             Student student=new Student();
+             student.sayHello();
         
 
 
